@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/dendihandian/momentjs-examples#readme",
   "dependencies": {
-    "momentjs": "^2.0.0"
+    "moment": "^2.22.2"
   },
   "devDependencies": {
     "mocha": "^5.2.0"

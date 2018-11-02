@@ -15,7 +15,7 @@ describe('Parse', function() {
   })
   describe('String', function() {
     describe('YYYY-MM-DD', function() {
-      const indonesiaIndependenceDay = '1994-08-17'
+      const indonesiaIndependenceDay = '1945-08-17'
       describe(indonesiaIndependenceDay, function(indonesiaIndependenceDay) {
         it ('.isValid()', function() {
           assert.equal(moment(indonesiaIndependenceDay).isValid(), true)

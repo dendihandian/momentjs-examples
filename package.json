@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/dendihandian/momentjs-examples/issues"
   },
-  "homepage": "https://github.com/dendihandian/momentjs-examples#readme"
+  "homepage": "https://github.com/dendihandian/momentjs-examples#readme",
+  "dependencies": {
+    "momentjs": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
